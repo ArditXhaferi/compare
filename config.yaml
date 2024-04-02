@@ -1,0 +1,9 @@
+urls:
+  site_a: 
+    link: 'https://www.casinotopsonline.com/it/'
+    breadcrumb_xpath: '/html/body/div[1]/div/ul'
+  site_b:
+    link: 'https://staging.casinotopsonline.com/it/'
+    username: 'gigmedia'
+    password: 'devenv123'
+    breadcrumb_xpath: '/html/body/div[2]/ul'
